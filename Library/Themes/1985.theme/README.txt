@@ -1,3 +1,0 @@
-Welcome fellow developer.  I see you like poking around in here...So I made it a bit easier for you.  So I’m the dev.  My 1st theme, put hundreds of hours in.  If you bought the theme (pls,) then you are welcome to use the icons here, just give credit where do.  You will note i put in some border***.pngs into this folder: templates :D
-so have at
-Also, please feel free to donate: smileytechguy@smileytechguy.com
